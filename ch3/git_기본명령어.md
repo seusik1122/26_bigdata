@@ -85,3 +85,11 @@ rm -Recurse ch4
 clear
 ```
 ![clear](스크린샷%202026-03-20%20105430.png)
+
+---
+
+## Python 스크립트 실행 결과
+```powershell
+& c:\bigdata_project_a_kim\venv\Scripts\python.exe c:/bigdata_project_a_kim/ch3/data_collection.py
+```
+![python 실행결과](스크린샷%202026-03-20%20120219.png)
